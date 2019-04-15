@@ -1,29 +1,46 @@
-# docker-gitbook [![Circle CI](https://circleci.com/gh/AlbanMontaigu/docker-gitbook.svg?style=shield)](https://circleci.com/gh/AlbanMontaigu/docker-gitbook)
+# c'est quoi 
 
-## Purpose
+* GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
 
-A gitbook docker image to allow you to build and publish your documentation.
+* Gitbook peut etre utilisé pour créer un livre, une documentation publique, un manuel 
+d'entreprise, une thèse, etc.
 
-**Available software:**
-* ```gitbook``` with pdf option thanks to calibre
-* ```calibre``` required by gitbook for pdf generation
-* ```npm``` required for gitbook
-* ```lftp``` to upload your docs on a distant site
-* ```git``` to get your doc source
 
-## Usage
+## How
 
-**To build your documentation in a specific directory:**
+* Instalation de gitbook depuis une image docker.
+
+    Une image de docker gitbook pour vous permettre de construire et de publier votre documentation.
+
+
+GitBook a besoin d’une table des matières qui pointe sur les différents fichiers markdown de votre futur ouvrage.
+
+# Prérequis :
+* ```gitbook``` avec option pdf grâce à calibre
+* ```calibre``` requis par gitbook pour la génération de pdf
+* ```npm``` requis pour gitbook
+* ```lftp``` télécharger vos documents sur un site distant
+* ```git``` pour obtenir votre source de doc
+* ```node```
+* ```grunt``` permet d’automatiser le processus de génération, mais aussi de publication vers une branche gh-pages du repository (donc y avoir accès façon “site web”).
+*```Github``` 
+
+
+##  Usage
+
+**Pour construire votre documentation dans un répertoire spécifique:**
 ```
 docker run -v /my_gitbook:/gitbook amontaigu/gitbook gitbook build docs html
 ```
 
-**To go inside the container an play with available commands in a shell:**
+**Pour aller à l'intérieur du conteneur, jouez avec les commandes disponibles dans un shell:
+
+**
 ```
 docker run -it --rm --entrypoint=/bin/sh amontaigu/gitbook
 ```
 
-## References and thanks
+## References
 
 * https://www.gitbook.com/
 * https://hub.docker.com/_/node/
