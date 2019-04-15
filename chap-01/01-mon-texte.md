@@ -3,7 +3,7 @@
   * Est un langage de balisage léger.
   * utilisé pour ajouter facilement du formatage, des liens et des images à du texte brut. 
 
-#SYntaxe
+#SYntaxe:
  ##Styles de texte
 
     _italique_ s'affiche : italique

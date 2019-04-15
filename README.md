@@ -41,7 +41,7 @@ docker run -v /my_gitbook:/gitbook amontaigu/gitbook gitbook build docs html
 docker run -it --rm --entrypoint=/bin/sh amontaigu/gitbook
 ```
 
-## References
+## References:
 
 * https://www.gitbook.com/
 * https://hub.docker.com/_/node/
