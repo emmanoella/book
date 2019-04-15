@@ -27,7 +27,7 @@ GitBook a besoin d’une table des matières qui pointe sur les différents fich
 *```Github``` 
 
 
-##  Usage
+##  Usage:
 
 **Pour construire votre documentation dans un répertoire spécifique:**
 ```
