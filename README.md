@@ -6,7 +6,7 @@
 d'entreprise, une thèse, etc.
 
 
-## How
+## Comment
 
 * Instalation de gitbook depuis une image docker.
 
@@ -16,13 +16,14 @@ d'entreprise, une thèse, etc.
 GitBook a besoin d’une table des matières qui pointe sur les différents fichiers markdown de votre futur ouvrage.
 
 # Prérequis :
+
 * ```gitbook``` avec option pdf grâce à calibre
 * ```calibre``` requis par gitbook pour la génération de pdf
 * ```npm``` requis pour gitbook
 * ```lftp``` télécharger vos documents sur un site distant
 * ```git``` pour obtenir votre source de doc
 * ```node```
-* ```grunt``` permet d’automatiser le processus de génération, mais aussi de publication vers une branche gh-pages du repository (donc y avoir accès façon “site web”).
+* ```grunt``` permet d’automatiser le processus de génération, mais aussi de publication vers une branche gh-pages du repository (accès  “site web”).
 *```Github``` 
 
 

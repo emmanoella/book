@@ -1,7 +1,7 @@
-#Marcdown
+#Markdown
 
-  *Est un langage de balisage léger.
-  *utilisé pour ajouter facilement du formatage, des liens et des images à du texte brut. 
+  * Est un langage de balisage léger.
+  * utilisé pour ajouter facilement du formatage, des liens et des images à du texte brut. 
 
 #SYntaxe
  ##Styles de texte
@@ -13,9 +13,9 @@
 
   ##Coloration syntaxique
 
-   *Pour ajouter de la coloration syntaxique, saisissez le langage utilisé après les ``` au début de votre bloc de code.
+   * Pour ajouter de la coloration syntaxique, saisissez le langage utilisé après les ``` au début de votre bloc de code.
 
-```>Les langages pris en charge sont : diff, apache, makefile, http, json, markdown, javascript, css, nginx, objectivec, python, xml, perl, bash, php, coffeescript, cs (C#), cpp (C++), sql, go, ruby, java, ini, latex```
+> Les langages pris en charge sont : ```diff, apache, makefile, http, json, markdown, javascript, css, nginx, objectivec, python, xml, perl, bash, php, coffeescript, cs (C#), cpp (C++), sql, go, ruby, java, ini, latex```
 
 Exemple :
 
