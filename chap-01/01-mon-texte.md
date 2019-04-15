@@ -27,7 +27,7 @@ func main() {
 }
 ```
 
-Tableaux
+Tableaux:
 ===
 
 Créez un tableau en plaçant une ligne de tirets sous la ligne d'entête et en séparant les colonnes par une barre verticale | (il n'y a pas besoin d'aligner exactement les colonnes pour que cela fonctionne). Précisez comment aligner les colonnes du tableau en ajoutant des deux-points : dans la ligne d'entête.
