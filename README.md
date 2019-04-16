@@ -1,6 +1,5 @@
 # c'est quoi 
-![gitbook logo](https://www.google.com/search?biw=733&bih=471&tbm=isch&sa=1&ei=56-0XM_tN7vlgweS4oeYDw&q=gitbook+logo&oq=gitbook+logo&gs_l=img.3..0i19.2509.2867..3380...0.0..1.380.849.1j1j1j1......0....1..gws-wiz-img.jN4dc_BHMKs#imgrc=O1v-ZQIKvcB79M:)
-* GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
+![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")* GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
 
 * Gitbook peut etre utilisé pour créer un livre, une documentation publique, un manuel 
 d'entreprise, une thèse, etc.
