@@ -1,5 +1,5 @@
 # c'est quoi 
-![Google log](http://jr0cket.co.uk/images/gitbook-logo.png)"gitbook logo")
+![Google log](http://jr0cket.co.uk/images/gitbook-logo.png "gitbook logo")
 
 * GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
 
