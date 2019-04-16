@@ -1,5 +1,5 @@
 # c'est quoi 
-![Google logo](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjbgtX_nNThAhVvzoUKHTTxCBIQjRx6BAgBEAU&url=http%3A%2F%2Fblog.strapi.io%2Fgitbook-open-source-documentation%2F&psig=AOvVaw0Xr1erVVWKeRAm_yMlGs5t&ust=1555490818345401 "gitbook logo")
+![Google log](http://jr0cket.co.uk/images/gitbook-logo.png)"gitbook logo")
 
 * GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
 
